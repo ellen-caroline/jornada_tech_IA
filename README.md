@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido durante a [Jornada Tech: IA](https://ebaconline.co
 ### 🗂 Conteúdo do repositório
 O repositório engloba todos os recursos, códigos-fonte e documentação relevantes desenvolvidos durante as aulas.
 
-## 📅 Cronograma das Aulas
+### 📅 Cronograma das Aulas
 **Aula 1: O que é IA**
    - Introdução aos conceitos fundamentais de Inteligência Artificial e suas aplicações práticas.
      
