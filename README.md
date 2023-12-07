@@ -6,7 +6,7 @@
 </div>
 
 ### 📁 Descrição do projeto
-<img align="right" width="220" src="https://github.com/ellen-caroline/jornada_tech_IA/assets/106993186/6f3b6571-90cf-4eb3-a3d9-c42261bbbc68">
+<img align="right" width="235" src="https://github.com/ellen-caroline/jornada_tech_IA/assets/106993186/6f3b6571-90cf-4eb3-a3d9-c42261bbbc68">
 
 Esse projeto foi desenvolvido durante a [Jornada Tech: IA](https://ebaconline.com.br/webinars/ia-jornada-2023-12-04), disponibilizada pela [EBAC](https://ebaconline.com.br/about-us). Esse evento teve como objetivo central capacitar os participantes a desenvolverem suas próprias soluções de Inteligência Artificial utilizando JavaScript. A iniciativa busca proporcionar uma compreensão dos fundamentos e práticas envolvidos na programação de IA. 
 
